@@ -1,0 +1,42 @@
+body{
+    background:#1a1a2e !important;
+    color: #eee;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+.karta{
+    background: #FFF;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    padding: 32px;
+    width: 320px;
+    text-align: center;
+    color: #111;
+}
+.odznaka{
+    background: #6366f1;
+    color: white;
+    border-radius: 999px;
+    padding: 4px 14px;
+    font-size: 13px;
+}
+.opis{
+    color: #666;
+    font-size: 14px;
+    margin-top: 12px;
+}
+#imie{
+    color: #6366f1;
+    font-size: 28px;
+    margin: 16px 0 8px;
+}
+.avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 36px;
+    line-height: 80px;
+    margin: 0 auto;
+    background: #6366f1 !important;
+}
